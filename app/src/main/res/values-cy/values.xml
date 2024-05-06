@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="abcBeer">
+        <item>Cwrw AC %</item>
+        <item>4.2</item>
+        <item>5</item>
+        <item>5.8</item>
+        <item>7.6</item>
+    </string-array>
+
+    <string-array name="abcWine">
+        <item>gwin AC %</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+    </string-array>
+
+    <string-array name="time_machines">
+        <item>@array/tardis</item>
+        <item>@array/delorean_dmc_12</item>
+        <item>@array/the_time_machine</item>
+    </string-array>
+
+    <string-array name="tardis">
+        <item>TARDIS</item>
+        <item>The TARDIS is more than a time machine; it\'s also capable of traveling through space and can move to any point in time and/or space almost instantly. This also makes it the fastest spacecraft in fiction, but when it comes to the TARDIS, it's mostly about time travel</item>
+
+    </string-array>
+
+    <string-array name="delorean_dmc_12">
+        <item>DeLorean DMC-12</item>
+        <item>Doc Brown engineered his time machine out of the car for one reason: he had to get his device up to 88 miles per hour in order to get it to function. The device in question was the Flux Capacitor, Doc's invention that made time travel possible.</item>
+
+    </string-array>
+
+    <string-array name="the_time_machine">
+        <item>The Time Machine</item>
+        <item>The time machine created an impenetrable sphere of energy around it, which protected it and whoever was inside from anything outside. In the movie, this was shown as lava flowed and encased the device for thousands of years before the rock eroded to reveal a new world.</item>
+    </string-array>
+    <string-array name="abcLiquor">
+        <item>AC gwirod %</item>
+        <item>35</item>
+        <item>40</item>
+        <item>45</item>
+        <item>50</item>
+        <item>55</item>
+        <item>60</item>
+    </string-array>
+
+
+
+
+    <string-array name="litraPive">
+        <item>Maint mewn ml</item>
+        <item>250</item>
+        <item>330</item>
+        <item>500</item>
+        <item>600</item>
+        <item>1000</item>
+        <item>1500</item>
+        <item>2000</item>
+    </string-array>
+
+    <string-array name="litraVina">
+        <item>Maint mewn ml</item>
+        <item>60</item>
+        <item>150</item>
+        <item>250</item>
+        <item>375</item>
+        <item>500</item>
+        <item>750</item>
+        <item>1000</item>
+        <item>1500</item>
+    </string-array>
+
+
+    <string-array name="litraLiquor">
+        <item>Maint mewn ml</item>
+        <item>15</item>
+        <item>30</item>
+        <item>50</item>
+        <item>100</item>
+        <item>250</item>
+        <item>375</item>
+        <item>500</item>
+        <item>750</item>
+    </string-array>
+
+
+</resources>

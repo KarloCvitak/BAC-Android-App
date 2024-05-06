@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AlkoKalko</string>
+    <string name="kgText">kg</string>
+    <string name="hintZaKg">Rhowch bwysau\'r corff</string>
+    <string name="radioMale">GWRYW</string>
+    <string name="radioFemale">BENYW</string>
+    <string name="minuteText">mun</string>
+    <string name="textSati">oriao</string>
+    <string name="buttonCalc">CYFRIFO BAC</string>
+    <string name="hintZaKolicinuPive">maint cwrw</string>
+    <string name="hintZaKolicinuVina">swm gwin</string>
+    <string name="hintZaKolicinuAlk">maint gwirod</string>
+
+
+</resources>

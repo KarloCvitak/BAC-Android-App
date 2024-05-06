@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AlkoKalko</string>
+    <string name="kgText">kg</string>
+    <string name="hintZaKg">Enter body weight</string>
+    <string name="radioMale">MALE</string>
+    <string name="radioFemale">FEMALE</string>
+    <string name="minuteText">min</string>
+    <string name="textSati">hours</string>
+    <string name="buttonCalc">CALCULATE BAC</string>
+    <string name="hintZaKolicinuPive">beer quantity</string>
+    <string name="hintZaKolicinuVina">wine quantity</string>
+    <string name="hintZaKolicinuAlk">liquor qunatity</string>
+
+
+</resources>

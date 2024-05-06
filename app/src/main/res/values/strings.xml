@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">KalkulatorCvitak</string>
+    <string name="app_name">AlkoKalko</string>
+    <string name="kgText">kg</string>
+    <string name="hintZaKg">Upiši tjelesnu masu</string>
+    <string name="radioMale">MUŠKO</string>
+    <string name="radioFemale">ŽENSKO</string>
+    <string name="minuteText">min</string>
+    <string name="textSati">sata</string>
+    <string name="buttonCalc">IZRAČUNAJ</string>
+    <string name="hintZaKolicinuPive">kolicina pive</string>
+    <string name="hintZaKolicinuVina">kolicina vina</string>
+    <string name="hintZaKolicinuAlk">kolicina alk.</string>
+
+
 </resources>
